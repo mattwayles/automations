@@ -17,14 +17,14 @@ API reference: [Nuvio Public API](https://nuvioapp.space/docs).
 
 ## Recommendations
 
-After the backup, the workflow runs [`generate_recommendations.py`](generate_recommendations.py), which turns the combined watchlists into a master recommendation list in [`recommendations.txt`](recommendations.txt):
+A second job in the same workflow, `recommendations`, runs after `backup` completes and checks out the commit it just pushed. It runs [`generate_recommendations.py`](generate_recommendations.py), which turns the combined watchlists into a master recommendation list in [`recommendations.txt`](recommendations.txt):
 
 1. Reads every `watchlists/profile-*.txt` file and de-duplicates items across profiles.
 2. Looks each item up on [TMDB](https://www.themoviedb.org) by its IMDb id (`/find`) and pulls TMDB's recommendations for it.
 3. Aggregates across all items: a candidate ranks by how many watchlist items recommend it (ties broken by TMDB vote average), and anything already on any watchlist is excluded.
 4. Writes the top 50 (`--limit` to change) as tab-separated lines — `content_id`, `content_type`, `name`, and a "because you watched" column citing a few of the watchlist titles that led to it.
 
-This step is best-effort: if the `TMDB_API_KEY` secret is missing or TMDB is down, it is skipped and the watchlist backup still commits.
+This job is best-effort and commits independently of `backup`: if the `TMDB_API_KEY` secret is missing or TMDB is down, it's skipped without affecting the watchlist backup, which has already committed and pushed by that point.
 
 **Setup:** create a free TMDB account, get an API key at <https://www.themoviedb.org/settings/api> (the v3 key and the v4 read access token both work), and add it as the `TMDB_API_KEY` repository secret.
 

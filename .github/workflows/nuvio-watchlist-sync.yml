@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  sync:
+  backup:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -27,9 +27,34 @@ jobs:
           NUVIO_PASSWORD: ${{ secrets.NUVIO_PASSWORD }}
         run: python3 backup_watchlists.py
 
+      - name: Commit backup changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add watchlists
+          git diff --cached --quiet || git commit -m "Nuvio watchlist sync: $(date -u +%F)"
+          # The checkout can be behind origin/master (re-runs pin the
+          # trigger-time SHA; another workflow may have pushed since),
+          # so rebase our commit onto the current remote tip first.
+          git pull --rebase origin master
+          git push
+
+  recommendations:
+    needs: backup
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: nuvio-watchlist-sync
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Pick up the commit the backup job just pushed, not the
+          # SHA that triggered the workflow.
+          ref: master
+
       - name: Generate recommendations
         # Recommendations are best-effort: a TMDB hiccup should not
-        # block the watchlist backup from being committed.
+        # fail the workflow now that it's decoupled from the backup.
         continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
@@ -40,15 +65,11 @@ jobs:
             python3 generate_recommendations.py
           fi
 
-      - name: Commit backup changes
+      - name: Commit recommendations
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add watchlists
           if [ -f recommendations.txt ]; then git add recommendations.txt; fi
-          git diff --cached --quiet || git commit -m "Nuvio watchlist sync: $(date -u +%F)"
-          # The checkout can be behind origin/master (re-runs pin the
-          # trigger-time SHA; another workflow may have pushed since),
-          # so rebase our commit onto the current remote tip first.
+          git diff --cached --quiet || git commit -m "Nuvio recommendations: $(date -u +%F)"
           git pull --rebase origin master
           git push
