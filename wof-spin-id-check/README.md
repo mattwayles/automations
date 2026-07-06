@@ -1,4 +1,4 @@
-# spin-id-checker
+# wof-spin-id-check
 
 Checks whether one of my Wheel of Fortune Spin IDs won today's drawing — automatically, every day, with a push notification either way.
 

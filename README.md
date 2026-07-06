@@ -4,7 +4,7 @@ A collection of small, independent automations, each living in its own top-level
 
 ## Packages
 
-- [`spin-id-checker/`](spin-id-checker/) — checks whether a Wheel of Fortune Spin ID has won today's drawing, on a daily schedule, with a push notification either way.
+- [`wof-spin-id-check/`](wof-spin-id-check/) — checks whether a Wheel of Fortune Spin ID has won today's drawing, on a daily schedule, with a push notification either way.
 
 ## Layout conventions
 
