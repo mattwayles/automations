@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-07-06T23:10:15Z
+# Last synced: 2026-07-13T16:43:56Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -14,7 +14,6 @@ tt34685692	movie	Over Your Dead Body
 tt8036976	movie	Send Help
 tt30144839	movie	One Battle After Another
 tt32430579	movie	Crime 101
-tt0138510	movie	Idle Hands
 tt34459219	movie	The Breadwinner
 tt28083456	movie	Is This Thing On?
 tt34385331	series	DTF St. Louis
@@ -34,7 +33,6 @@ tt0120663	movie	Eyes Wide Shut
 tt0120382	movie	The Truman Show
 tt0443706	movie	Zodiac
 tt33046197	movie	The Wrecking Crew
-tt1723121	movie	We're the Millers
 tt6263850	movie	Deadpool & Wolverine
 tt0169547	movie	American Beauty
 tt14452776	series	The Bear
@@ -48,7 +46,6 @@ tt27444205	series	Paradise
 tt7660850	series	Succession
 tt5834204	series	The Handmaid's Tale
 tt22202452	series	Pluribus
-tt9077540	series	Sweet Magnolias
 tt31137273	series	Margo's Got Money Troubles
 tt0412142	series	House
 tt22091076	series	High Potential
@@ -56,20 +53,17 @@ tt8690918	series	Resident Alien
 tt0460649	series	How I Met Your Mother
 tt31631015	series	The Witness
 tt0472954	series	It's Always Sunny in Philadelphia
-tt14879018	series	Running Point
 tt13875494	series	Tracker
 tt2741602	series	The Blacklist
 tt6468322	series	Money Heist
 tt33043892	series	Dexter: Resurrection
 tt11691774	series	Only Murders in the Building
-tt0455275	series	Prison Break
 tt0098904	series	Seinfeld
 tt2467372	series	Brooklyn Nine-Nine
 tt4786824	series	The Crown
 tt21376524	series	Animal Control
 tt21433690	series	St. Denis Medical
 tt0115147	series	The Daily Show
-tt34888871	movie	Little Brother
 tt40898187	movie	The Roast of Kevin Hart
 tt3469050	series	90 Day Fiancé
 tt28304310	series	90 Day: The Last Resort
@@ -87,3 +81,81 @@ tt13087486	series	Married at First Sight: Unmatchables
 tt7942794	series	The Neighborhood
 tt29355505	movie	Toy Story 5
 tt42873612	series	Michael Jackson: The Verdict
+tt42863533	movie	Maternal Instinct
+tt36462222	movie	Titanic: The Digital Resurrection
+tt0491738	series	Psych
+tt0901504	movie	Psych:9
+tt6868216	movie	Psych: The Movie
+tt32843349	movie	Sorry, Baby
+tt30057084	movie	Babygirl
+tt17163970	movie	Wallace & Gromit: Vengeance Most Fowl
+tt16300138	movie	I Used to Be Funny
+tt18363072	movie	The Royal Hotel
+tt0115163	series	Early Edition
+tt0247081	series	Boston Public
+tt0034583	movie	Casablanca
+tt3402236	movie	Murder on the Orient Express
+tt1198138	movie	Obsessed
+tt13018148	series	Tell Me Lies
+tmdb:66902	series	Below Deck Mediterranean
+tmdb:1339713	movie	Obsession
+tmdb:32390	series	The Real Housewives of Beverly Hills
+tmdb:9676	movie	The Black Dahlia
+tt5462720	series	Kevin Can Wait
+tt0101540	movie	Cape Fear
+tt0089218	movie	The Goonies
+tt0109445	movie	Clerks
+tt0825232	movie	The Bucket List
+tt0112281	movie	Ace Ventura: When Nature Calls
+tt2568862	movie	Going in Style
+tt1478620	movie	A Very Sunny Christmas
+tt0397313	movie	Eight Below
+tt43476716	series	Worst Neighbor Ever
+tt3228420	series	You're the Worst
+tt4903242	series	The Detour
+tt1837642	series	Revenge
+tt4842646	movie	The Most Hated Woman in America
+tt1066032	series	Most Evil
+tt0944181	series	Most Shocking
+tmdb:1273221	movie	Scary Movie
+tmdb:79744	series	The Rookie
+tmdb:1127384	movie	Deep Water
+tmdb:936075	movie	Michael
+tmdb:241372	series	56 Days
+tmdb:260471	series	Shifting Gears
+tmdb:1321439	movie	The Wrong Paris
+tmdb:512195	movie	Red Notice
+tmdb:1022787	movie	Elio
+tmdb:108181	series	Imperfect Women
+tmdb:927254	movie	The Twits
+tmdb:255251	series	Sean Combs: The Reckoning
+tmdb:1117857	movie	In Your Dreams
+tt31314751	series	All Her Fault
+tt30291387	series	All's Fair
+tt2024469	movie	Non-Stop
+tt2975590	movie	Batman v Superman: Dawn of Justice
+tt14109724	movie	Ticket to Paradise
+tt35072306	movie	The Paradise Murders
+tt0758752	movie	Love & Other Drugs
+tt9362736	movie	Die My Love
+tt14586350	series	Love & Death
+tt7721986	series	Love After Lockup
+tt0108174	movie	So I Married an Axe Murderer
+tt0092400	series	Married... with Children
+tt21371376	series	Deep Fake Neighbour Wars
+tt23709380	series	Customer Wars
+tt4071576	series	This Is Life with Lisa Ling
+tt31909098	series	The Miniature Wife
+tt28118211	series	A Good Girl's Guide to Murder
+tt41082351	series	Should I Marry a Murderer?
+tt0141842	series	The Sopranos
+tt1796960	series	Homeland
+tt1606375	series	Downton Abbey
+tt11041332	series	Yellowjackets
+tt23649128	series	The Studio
+tt14269590	series	Poker Face
+tt23052950	series	Deli Boys
+tt2660806	series	Mom
+tt8740614	series	The Residence
+tt2699110	series	The Affair
+tt0094582	series	The Wonder Years
