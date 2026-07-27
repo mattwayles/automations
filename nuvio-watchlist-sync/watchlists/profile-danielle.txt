@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 2: Danielle
-# Last synced: 2026-07-20T16:02:46Z
+# Last synced: 2026-07-27T16:34:52Z
 # content_id	content_type	name
 tt0096697	series	The Simpsons
 tt38561132	movie	The Simpsons Movie 2
@@ -21,7 +21,6 @@ tt14500082	series	How I Met Your Father
 tt14832996	series	How to Become a Tyrant
 tt39398809	series	Neighbors
 tt8420184	series	The Last Dance
-tt40826311	series	Trust Me: The False Prophet
 tt11318602	series	Don't F**k with Cats: Hunting an Internet Killer
 tt13530014	series	Signs of a Psychopath
 tt5555260	series	This Is Us
@@ -35,3 +34,5 @@ tt1561755	series	Bob's Burgers
 tt0397306	series	American Dad!
 tt0437745	series	Robot Chicken
 tt11092142	series	Human Resources
+tt4071576	series	This Is Life with Lisa Ling
+tt14403178	series	Beef

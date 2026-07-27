@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-07-20T16:02:45Z
+# Last synced: 2026-07-27T16:34:51Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -7,14 +7,12 @@ tt30459041	series	Your Friends & Neighbors
 tt35946742	series	Maximum Pleasure Guaranteed
 tt32420734	series	Rooster
 tt34771210	series	I Will Find You
-tt4357198	movie	How to Make a Killing
 tt12042730	movie	Project Hail Mary
 tt1341338	movie	Good Luck, Have Fun, Don't Die
 tt34685692	movie	Over Your Dead Body
 tt8036976	movie	Send Help
 tt30144839	movie	One Battle After Another
 tt32430579	movie	Crime 101
-tt34459219	movie	The Breadwinner
 tt28083456	movie	Is This Thing On?
 tt34385331	series	DTF St. Louis
 tt34691775	series	It's Not Like That
@@ -154,7 +152,6 @@ tt2660806	series	Mom
 tt8740614	series	The Residence
 tt2699110	series	The Affair
 tt0094582	series	The Wonder Years
-tt5665418	series	Below Deck Mediterranean
 tt35587659	series	The Five-Star Weekend
 tt37745433	series	Stalking Samantha: 13 Years of Terror
 tt20782578	series	Mind Over Murder
@@ -163,7 +160,6 @@ tt39842139	series	Twisted Yoga
 tt10532840	series	Who Killed Garrett Phillips?
 tt37972240	series	Don't Date Brandon
 tt37745220	series	Capturing Their Killer: The Girls on the High Bridge
-tt7531564	series	Cold Blooded: The Clutter Family Murders
 tt37666468	series	Fit for TV: The Reality of the Biggest Loser
 tt37542748	series	Death in Apartment 603: What Happened to Ellen Greenberg?
 tt37738739	series	Naming the Dead
@@ -191,3 +187,18 @@ tt30826447	series	The Four Seasons
 tt10589968	series	The Secret of Skinwalker Ranch
 tt0061722	movie	The Graduate
 tmdb:795	movie	City of Angels
+tt0461622	series	Criss Angel Mindfreak
+tmdb:12775	series	Jail
+tmdb:204948	series	#TextMeWhenYouGetHome
+tmdb:91751	series	60 Days In: Narcoland
+tmdb:128565	series	60 Days In: From Inmate to Officer
+tt0107131	movie	Homeward Bound: The Incredible Journey
+tt0116552	movie	Homeward Bound II: Lost in San Francisco
+tt0097050	movie	The Adventures of Milo and Otis
+tt0942385	movie	Tropic Thunder
+tt0265666	movie	The Royal Tenenbaums
+tt29417953	movie	Babes
+tt34688214	series	Pompeii: Out of Time with Tom Hiddleston
+tt29623480	movie	The Wild Robot
+tt13622970	movie	Moana 2
+tt0119715	movie	Mousehunt
