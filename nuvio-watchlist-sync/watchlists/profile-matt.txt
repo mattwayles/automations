@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 3: Matt
-# Last synced: 2026-08-03T16:42:04Z
+# Last synced: 2026-08-10T15:18:05Z
 # content_id	content_type	name
 tt0368530	series	One Tree Hill
 tt1837576	series	Scandal
@@ -25,3 +25,6 @@ tt9288030	series	Reacher
 tt33480540	series	This Is the Zodiac Speaking
 tt0976014	series	Greek
 tt0367279	series	Arrested Development
+tt1196946	series	The Mentalist
+tt32268156	movie	11817
+tt33764258	movie	The Odyssey
