@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-08-24T15:02:44Z
+# Last synced: 2026-08-31T20:09:03Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -202,11 +202,12 @@ tt34688214	series	Pompeii: Out of Time with Tom Hiddleston
 tt29623480	movie	The Wild Robot
 tt13622970	movie	Moana 2
 tt0119715	movie	Mousehunt
-tt16116174	movie	Harry Potter 20th Anniversary: Return to Hogwarts
 tt38679523	movie	The Idaho Murders
 tt32810392	series	One Night in Idaho: The College Murders
 tt43619305	movie	A Toxic Love Story
-tt36304003	movie	72 Hours
 tt21426454	series	The Cruise
 tt1788992	movie	Fawlty Towers: Re-Opened
 tt13592494	series	The Bombing of Pan Am 103
+tt6688750	series	Puppy Dog Pals
+tt43749709	movie	Grand Theft Auto VI: An Extended Look
+tt0244926	series	Rocket Power

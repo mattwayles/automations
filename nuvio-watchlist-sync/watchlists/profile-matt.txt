@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 3: Matt
-# Last synced: 2026-08-24T15:02:45Z
+# Last synced: 2026-08-31T20:09:04Z
 # content_id	content_type	name
 tt0368530	series	One Tree Hill
 tt1837576	series	Scandal
@@ -28,3 +28,9 @@ tt0367279	series	Arrested Development
 tt1196946	series	The Mentalist
 tt33764258	movie	The Odyssey
 tt5095208	movie	Dickshark
+tt34866681	series	Lucky
+tt7491982	series	FBI
+tt0239195	series	Survivor
+tt0285335	series	The Amazing Race
+tt36933578	series	Fear Factor: House of Fear
+tt0278191	series	Fear Factor
