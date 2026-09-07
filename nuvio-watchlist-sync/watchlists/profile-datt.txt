@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-08-31T20:09:03Z
+# Last synced: 2026-09-07T18:45:04Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -203,7 +203,6 @@ tt29623480	movie	The Wild Robot
 tt13622970	movie	Moana 2
 tt0119715	movie	Mousehunt
 tt38679523	movie	The Idaho Murders
-tt32810392	series	One Night in Idaho: The College Murders
 tt43619305	movie	A Toxic Love Story
 tt21426454	series	The Cruise
 tt1788992	movie	Fawlty Towers: Re-Opened
@@ -211,3 +210,8 @@ tt13592494	series	The Bombing of Pan Am 103
 tt6688750	series	Puppy Dog Pals
 tt43749709	movie	Grand Theft Auto VI: An Extended Look
 tt0244926	series	Rocket Power
+tt0098384	movie	Steel Magnolias
+tt27419466	movie	Moana
+tt43680755	series	The Idaho Murders: College Nightmare
+tt14173636	movie	The Invite
+tt0149460	series	Futurama
