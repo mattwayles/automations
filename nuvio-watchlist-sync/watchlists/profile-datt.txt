@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-09-07T18:45:04Z
+# Last synced: 2026-09-14T19:25:24Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -18,7 +18,6 @@ tt34385331	series	DTF St. Louis
 tt34691775	series	It's Not Like That
 tt9257258	series	Kevin Can F**k Himself
 tt12583926	movie	Anniversary
-tt39316472	movie	Jackass: Best and Last
 tt32890033	movie	Minions & Monsters
 tt26443616	movie	Hoppers
 tt33612209	movie	The Devil Wears Prada 2
@@ -67,14 +66,12 @@ tt7252812	series	90 Day Fiancé: Before the 90 Days
 tt9170070	series	90 Day Fiancé: The Other Way
 tt13990474	series	90 Day: The Single Life
 tt6142940	series	90 Day Fiancé: Happily Ever After?
-tt14873792	series	90 Day Fiancé: Love in Paradise
 tt8718438	series	90 Day Fiancé: What Now?
 tt3868860	series	Married at First Sight
 tt4771108	series	Married at First Sight Australia
 tt14163204	series	Married at First Sight Grand Reunion Event
 tt8994550	series	Married at First Sight: Happily Ever After
 tt13087486	series	Married at First Sight: Unmatchables
-tt7942794	series	The Neighborhood
 tt29355505	movie	Toy Story 5
 tt42873612	series	Michael Jackson: The Verdict
 tt36462222	movie	Titanic: The Digital Resurrection
@@ -215,3 +212,11 @@ tt27419466	movie	Moana
 tt43680755	series	The Idaho Murders: College Nightmare
 tt14173636	movie	The Invite
 tt0149460	series	Futurama
+tt31449991	series	Chad Powers
+tt0118178	movie	Wish Upon a Star
+tt0059742	movie	The Sound of Music
+tt0162222	movie	Cast Away
+tt0095690	movie	Mystic Pizza
+tt8079248	movie	Yesterday
+tt0120032	movie	Romy and Michele's High School Reunion
+tt1859650	movie	To Rome with Love

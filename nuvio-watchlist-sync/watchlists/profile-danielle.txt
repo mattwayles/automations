@@ -1,8 +1,7 @@
 # Nuvio watchlist backup — profile 2: Danielle
-# Last synced: 2026-09-07T18:45:04Z
+# Last synced: 2026-09-14T19:25:24Z
 # content_id	content_type	name
 tt0096697	series	The Simpsons
-tt38561132	movie	The Simpsons Movie 2
 tt6226232	series	Young Sheldon
 tt1625346	movie	Young Adult
 tt14369056	series	Pretty Smart
@@ -36,3 +35,4 @@ tt0437745	series	Robot Chicken
 tt11092142	series	Human Resources
 tt4071576	series	This Is Life with Lisa Ling
 tt14403178	series	Beef
+tt27497393	series	Stuart Fails to Save the Universe
