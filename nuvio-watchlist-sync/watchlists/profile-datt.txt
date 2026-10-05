@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-09-28T20:34:57Z
+# Last synced: 2026-10-05T21:30:23Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -220,3 +220,33 @@ tt0095690	movie	Mystic Pizza
 tt8079248	movie	Yesterday
 tt0120032	movie	Romy and Michele's High School Reunion
 tt1859650	movie	To Rome with Love
+tt28014327	movie	Mayday
+tt6628920	movie	Idiots
+tt33305867	movie	Spa Weekend
+tt8820258	movie	Super Troopers 3
+tt32093575	movie	Scary Movie
+tt33397980	movie	Office Romance
+tt32572716	movie	The Truth and Tragedy of Moriah Wilson
+tt37209937	movie	Pizza Movie
+tt0089167	movie	Fraternity Vacation
+tt0089886	movie	Real Genius
+tt0089791	movie	Pee-wee's Big Adventure
+tt0089543	movie	The Man with One Red Shoe
+tt0088763	movie	Back to the Future
+tt0090060	movie	St. Elmo's Fire
+tt0088850	movie	Brewster's Millions
+tt0102558	movie	Nothing But Trouble
+tt0119142	movie	For Richer or Poorer
+tt37439410	series	The Perfect Lie
+tt0107818	movie	Philadelphia
+tt0107808	movie	A Perfect World
+tt0107798	movie	The Pelican Brief
+tt0108002	movie	Rudy
+tt0106613	movie	Cop & ½
+tt0106627	movie	The Crush
+tt0107507	movie	Manhattan Murder Mystery
+tt0106977	movie	The Fugitive
+tt0028597	movie	The Awful Truth
+tt32588798	movie	Practical Magic 2
+tt36583977	movie	Forgotten Island
+tt26657236	movie	Backrooms

@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 2: Danielle
-# Last synced: 2026-09-28T20:34:57Z
+# Last synced: 2026-10-05T21:30:24Z
 # content_id	content_type	name
 tt0096697	series	The Simpsons
 tt6226232	series	Young Sheldon
@@ -36,3 +36,6 @@ tt11092142	series	Human Resources
 tt4071576	series	This Is Life with Lisa Ling
 tt14403178	series	Beef
 tt27497393	series	Stuart Fails to Save the Universe
+tt0149460	series	Futurama
+tt5853176	series	The Good Fight
+tt0460637	series	Everybody Hates Chris
