@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 3: Matt
-# Last synced: 2026-10-26T19:58:11Z
+# Last synced: 2026-11-02T22:47:47Z
 # content_id	content_type	name
 tt0368530	series	One Tree Hill
 tt1837576	series	Scandal
@@ -51,3 +51,4 @@ tt18335752	series	1923
 tt34991493	series	Dutton Ranch
 tt33539520	series	Neagley
 tt13918446	series	Harry Potter
+tt33270224	series	Cupertino
