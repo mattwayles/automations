@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 2: Danielle
-# Last synced: 2026-11-02T22:47:46Z
+# Last synced: 2026-11-09T23:27:15Z
 # content_id	content_type	name
 tt0096697	series	The Simpsons
 tt6226232	series	Young Sheldon
@@ -12,8 +12,6 @@ tt0413573	series	Grey's Anatomy
 tt9077540	series	Sweet Magnolias
 tt14879018	series	Running Point
 tt0182576	series	Family Guy
-tt7335184	series	You
-tt41082351	series	Should I Marry a Murderer?
 tt31909098	series	The Miniature Wife
 tt3205802	series	How to Get Away with Murder
 tt14500082	series	How I Met Your Father
@@ -39,3 +37,35 @@ tt27497393	series	Stuart Fails to Save the Universe
 tt0149460	series	Futurama
 tt5853176	series	The Good Fight
 tt0460637	series	Everybody Hates Chris
+tt32260680	series	The Better Sister
+tt26933824	series	Nobody Wants This
+tt14218830	series	Abbott Elementary
+tt0898266	series	The Big Bang Theory
+tt5834204	series	The Handmaid's Tale
+tt1796960	series	Homeland
+tt5071412	series	Ozark
+tt37439410	series	The Perfect Lie
+tt0159206	series	Sex and the City
+tt33049767	series	Adults
+tt1856010	series	House of Cards
+tt5687612	series	Fleabag
+tt4301160	series	Black Bird
+tt0264235	series	Curb Your Enthusiasm
+tt7203552	series	The Morning Show
+tt15469618	series	Bad Sisters
+tt3501074	series	Madam Secretary
+tt31137273	series	Margo's Got Money Troubles
+tt21441010	series	Good American Family
+tt14586350	series	Love & Death
+tt31314751	series	All Her Fault
+tt0458253	series	The Closer
+tt14016500	series	The Summer I Turned Pretty
+tt0412253	series	Veronica Mars
+tt1837492	series	13 Reasons Why
+tt7016936	series	Killing Eve
+tt2226342	series	Devious Maids
+tt31937954	series	Imperfect Women
+tt3914054	series	We Were Liars
+tt13018148	series	Tell Me Lies
+tt32267726	series	The Girlfriend
+tt9054904	series	Why Women Kill

@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-11-02T22:47:46Z
+# Last synced: 2026-11-09T23:27:15Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -7,7 +7,6 @@ tt30459041	series	Your Friends & Neighbors
 tt35946742	series	Maximum Pleasure Guaranteed
 tt32420734	series	Rooster
 tt34771210	series	I Will Find You
-tt12042730	movie	Project Hail Mary
 tt1341338	movie	Good Luck, Have Fun, Don't Die
 tt34685692	movie	Over Your Dead Body
 tt8036976	movie	Send Help
@@ -17,7 +16,6 @@ tt28083456	movie	Is This Thing On?
 tt34385331	series	DTF St. Louis
 tt34691775	series	It's Not Like That
 tt9257258	series	Kevin Can F**k Himself
-tt12583926	movie	Anniversary
 tt32890033	movie	Minions & Monsters
 tt26443616	movie	Hoppers
 tt33612209	movie	The Devil Wears Prada 2
@@ -31,7 +29,6 @@ tt0120382	movie	The Truman Show
 tt0443706	movie	Zodiac
 tt33046197	movie	The Wrecking Crew
 tt6263850	movie	Deadpool & Wolverine
-tt0169547	movie	American Beauty
 tt14452776	series	The Bear
 tt10986410	series	Ted Lasso
 tt4574334	series	Stranger Things
@@ -76,7 +73,6 @@ tt29355505	movie	Toy Story 5
 tt42873612	series	Michael Jackson: The Verdict
 tt36462222	movie	Titanic: The Digital Resurrection
 tt0491738	series	Psych
-tt0901504	movie	Psych:9
 tt6868216	movie	Psych: The Movie
 tt32843349	movie	Sorry, Baby
 tt30057084	movie	Babygirl
@@ -89,8 +85,6 @@ tt0034583	movie	Casablanca
 tt3402236	movie	Murder on the Orient Express
 tt1198138	movie	Obsessed
 tt13018148	series	Tell Me Lies
-tmdb:66902	series	Below Deck Mediterranean
-tmdb:1339713	movie	Obsession
 tmdb:32390	series	The Real Housewives of Beverly Hills
 tmdb:9676	movie	The Black Dahlia
 tt5462720	series	Kevin Can Wait
@@ -119,7 +113,6 @@ tmdb:1321439	movie	The Wrong Paris
 tmdb:512195	movie	Red Notice
 tmdb:1022787	movie	Elio
 tmdb:108181	series	Imperfect Women
-tmdb:927254	movie	The Twits
 tmdb:255251	series	Sean Combs: The Reckoning
 tmdb:1117857	movie	In Your Dreams
 tt31314751	series	All Her Fault
@@ -130,7 +123,6 @@ tt35072306	movie	The Paradise Murders
 tt0758752	movie	Love & Other Drugs
 tt14586350	series	Love & Death
 tt7721986	series	Love After Lockup
-tt0108174	movie	So I Married an Axe Murderer
 tt0092400	series	Married... with Children
 tt21371376	series	Deep Fake Neighbour Wars
 tt23709380	series	Customer Wars
@@ -205,7 +197,6 @@ tt1788992	movie	Fawlty Towers: Re-Opened
 tt13592494	series	The Bombing of Pan Am 103
 tt6688750	series	Puppy Dog Pals
 tt43749709	movie	Grand Theft Auto VI: An Extended Look
-tt0244926	series	Rocket Power
 tt0098384	movie	Steel Magnolias
 tt27419466	movie	Moana
 tt43680755	series	The Idaho Murders: College Nightmare
@@ -229,7 +220,6 @@ tt32572716	movie	The Truth and Tragedy of Moriah Wilson
 tt37209937	movie	Pizza Movie
 tt0089167	movie	Fraternity Vacation
 tt0089886	movie	Real Genius
-tt0089791	movie	Pee-wee's Big Adventure
 tt0089543	movie	The Man with One Red Shoe
 tt0088763	movie	Back to the Future
 tt0090060	movie	St. Elmo's Fire
@@ -253,7 +243,19 @@ tt0059920	movie	The Wizard of Mars
 tt40197357	series	Scrubs
 tt11379026	series	Ghosts
 tt14218830	series	Abbott Elementary
-tt0075581	series	Sha Na Na
 tt0759475	series	'Til Death
 tt39469996	series	Newlyweds
 tt38773219	movie	Ebenezer
+tt38077943	movie	Hexed
+tt42007258	series	The Mob
+tt1844624	series	American Horror Story
+tt42220724	series	Minimum Wage
+tt6773088	series	Brothers
+tt44941753	series	The One About Matthew Perry
+tt13623608	series	The Curse
+tt31589662	series	Georgie & Mandy's First Marriage
+tt15557874	series	The Traitors
+tt31491435	series	Tires
+tt0248654	series	Six Feet Under
+tt21952924	series	Phony
+tt0091975	movie	A Smoky Mountain Christmas
