@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-11-09T23:27:15Z
+# Last synced: 2026-11-16T23:24:54Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -214,11 +214,9 @@ tt28014327	movie	Mayday
 tt6628920	movie	Idiots
 tt33305867	movie	Spa Weekend
 tt8820258	movie	Super Troopers 3
-tt32093575	movie	Scary Movie
 tt33397980	movie	Office Romance
 tt32572716	movie	The Truth and Tragedy of Moriah Wilson
 tt37209937	movie	Pizza Movie
-tt0089167	movie	Fraternity Vacation
 tt0089886	movie	Real Genius
 tt0089543	movie	The Man with One Red Shoe
 tt0088763	movie	Back to the Future
@@ -259,3 +257,4 @@ tt31491435	series	Tires
 tt0248654	series	Six Feet Under
 tt21952924	series	Phony
 tt0091975	movie	A Smoky Mountain Christmas
+tt0120686	movie	Stepmom
