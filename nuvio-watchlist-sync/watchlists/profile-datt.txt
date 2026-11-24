@@ -1,5 +1,5 @@
 # Nuvio watchlist backup — profile 1: Datt
-# Last synced: 2026-11-16T23:24:54Z
+# Last synced: 2026-11-24T01:41:38Z
 # content_id	content_type	name
 tt31938062	series	The Pitt
 tt8772296	series	Euphoria
@@ -19,7 +19,6 @@ tt9257258	series	Kevin Can F**k Himself
 tt32890033	movie	Minions & Monsters
 tt26443616	movie	Hoppers
 tt33612209	movie	The Devil Wears Prada 2
-tt29552248	movie	Swapped
 tt0110912	movie	Pulp Fiction
 tt27613895	movie	GOAT
 tt14364480	movie	Wake Up Dead Man
@@ -103,7 +102,6 @@ tt1837642	series	Revenge
 tt4842646	movie	The Most Hated Woman in America
 tt1066032	series	Most Evil
 tt0944181	series	Most Shocking
-tmdb:1273221	movie	Scary Movie
 tmdb:79744	series	The Rookie
 tmdb:1127384	movie	Deep Water
 tmdb:936075	movie	Michael
@@ -129,7 +127,6 @@ tt23709380	series	Customer Wars
 tt4071576	series	This Is Life with Lisa Ling
 tt31909098	series	The Miniature Wife
 tt28118211	series	A Good Girl's Guide to Murder
-tt41082351	series	Should I Marry a Murderer?
 tt0141842	series	The Sopranos
 tt1796960	series	Homeland
 tt1606375	series	Downton Abbey
@@ -217,7 +214,6 @@ tt8820258	movie	Super Troopers 3
 tt33397980	movie	Office Romance
 tt32572716	movie	The Truth and Tragedy of Moriah Wilson
 tt37209937	movie	Pizza Movie
-tt0089886	movie	Real Genius
 tt0089543	movie	The Man with One Red Shoe
 tt0088763	movie	Back to the Future
 tt0090060	movie	St. Elmo's Fire
@@ -258,3 +254,6 @@ tt0248654	series	Six Feet Under
 tt21952924	series	Phony
 tt0091975	movie	A Smoky Mountain Christmas
 tt0120686	movie	Stepmom
+tt27165187	movie	The End of Oak Street
+tt36501922	series	Holly Jolly Homicides
+tt6237114	series	Thanksgiving
